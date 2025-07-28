@@ -30,12 +30,8 @@ I'm a detail-driven developer who enjoys transforming ideas into interactive and
 
 ## 💬 Let’s Connect  
 If you're building something cool, solving a problem, or just want to talk code, I'm all ears. Collaboration makes us better.
+![GitHub Contribution Calendar](https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanrafi&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdurrahmanrafi&show_icons=true&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdurrafi&color=green)
-
-[![Abdur's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abdurrafi&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚒️ Currently Working On  
 - 🧠 UIU Student Problem Reporting System  
