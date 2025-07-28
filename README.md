@@ -35,9 +35,7 @@ Collaboration fuels creativity ⚡, and GitHub is our playground for innovation!
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanrafi&theme=tokyonight&date_format=%5BY%20%5DM%20j&fire=DD2727&ring=5BC0BE&currStreakNum=FFD700&sideLabels=00FFFF" alt="🔥 GitHub Contribution Streak" width="80%" />
-</p>
+[![Abdur's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abdurrahmanrafi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
