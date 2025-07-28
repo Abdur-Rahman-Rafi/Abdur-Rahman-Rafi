@@ -1,5 +1,5 @@
 # Hi there, I'm Abdur Rahman Rafi 👋  
-🎯 Full-Stack Developer • 💻 Passionate about problem solving  
+🎯 Full-Stack Developer • 💻 Passionate about problem solving • 🧠 AI & ML enthusiast
 📍 Dhaka, Bangladesh  
 📬 abdur@example.com  
 🌐 [Portfolio Website](https://abdur-rahman-rafi.github.io/resume/)  
@@ -31,7 +31,7 @@ I'm a detail-driven developer who enjoys transforming ideas into interactive and
 ## 💬 Let’s Connect  
 If you're building something cool, solving a problem, or just want to talk code, I'm all ears. Collaboration makes us better.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdurrafi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdurrahmanrafi&show_icons=true&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdurrafi&color=green)
 
@@ -55,7 +55,7 @@ If you're building something cool, solving a problem, or just want to talk code,
 <details>
   <summary>📚 My Certifications & Awards</summary>
   - Blockchain Olympiad Bangladesh Finalist 🏅  
-  - Microprocessor Theory Class Rep 🧠  
+  - President,BAF Shaheen College Kurmitola Math Club 🧠  
 </details>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdurrafi)](https://github.com/ryo-ma/github-profile-trophy)
