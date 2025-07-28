@@ -32,13 +32,6 @@ I'm a detail-driven developer who enjoys transforming ideas into interactive and
 
 Hey there! 👋 If you're crafting something exciting, solving impactful problems, or simply vibing with code — I’m all ears.  
 Collaboration fuels creativity ⚡, and GitHub is our playground for innovation!
-
----
-
-[![Abdur's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abdurrahmanrafi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 🌟 *Consistency is key — every streak tells a story of persistence.*  
 ✨ *Each pixel lit up represents growth in your coding journey.*
 
