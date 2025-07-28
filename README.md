@@ -29,8 +29,22 @@ I'm a detail-driven developer who enjoys transforming ideas into interactive and
 ---
 
 ## 💬 Let’s Connect  
-If you're building something cool, solving a problem, or just want to talk code, I'm all ears. Collaboration makes us better.
-![GitHub Contribution Calendar](https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanrafi&theme=tokyonight)
+
+Hey there! 👋 If you're crafting something exciting, solving impactful problems, or simply vibing with code — I’m all ears.  
+Collaboration fuels creativity ⚡, and GitHub is our playground for innovation!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanrafi&theme=tokyonight&date_format=%5BY%20%5DM%20j&fire=DD2727&ring=5BC0BE&currStreakNum=FFD700&sideLabels=00FFFF" alt="🔥 GitHub Contribution Streak" width="80%" />
+</p>
+
+---
+
+🌟 *Consistency is key — every streak tells a story of persistence.*  
+✨ *Each pixel lit up represents growth in your coding journey.*
+
+
 
 
 ## ⚒️ Currently Working On  
