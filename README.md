@@ -1,71 +1,144 @@
-# Hi there, I'm Abdur Rahman Rafi 👋  
-🎯 Full-Stack Developer • 💻 Passionate about problem solving • 🧠 AI & ML enthusiast
-📍 Dhaka, Bangladesh  
-📬 abdur@example.com  
-🌐 [Portfolio Website](https://abdur-rahman-rafi.github.io/resume/)  
-🧠 Class Representative for Microprocessor & Microcontroller  
-💡 Community-oriented systems designer with a love for elegant code  
-⚙️ Builder of secure, scalable web applications  
+<!-- ===================== -->
+<!--  🌟 PROFESSIONAL CSE README  -->
+<!-- ===================== -->
+
+<!-- ---------- HERO BANNER ---------- -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif">
+    <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" alt="banner" width="100%">
+  </picture>
+</p>
+
+<h1 align="center">Hi, I'm <strong>Abdur Rahman Rafi</strong> 👋</h1>
+<h3 align="center">💻 Full-Stack Developer | 🧠 AI & ML Enthusiast | 🐧 RHEL & Linux Expert | CSE Focused</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=800&lines=Building+secure+scalable+web+systems;MERN+Stack+%7C+AI+%26+ML;RHEL+%7C+Linux+Administration;Open+to+Internships+%26+Collabs" alt="typing" />
+</p>
 
 ---
 
-## 🚀 About Me  
-I'm a detail-driven developer who enjoys transforming ideas into interactive and secure web applications. Whether it's a student problem reporting tool or a math club management system, I build with precision, empathy, and scalability in mind.
+## 🧠 About Me
+I’m a **Computer Science enthusiast** who builds **real-world, production-ready systems**.  
+My focus is on **algorithms, system design, web applications, and scalable architecture**.
 
-- 🔧 Skilled in HTML, CSS, JavaScript, PHP, MySQL, Supabase & XAMPP  
-- 🧪 Learning Node.js, React & NLP technologies  
-- 🌗 Dark mode lover and theme toggle enthusiast  
-- 📦 Strong understanding of GitHub Pages for sleek deployments  
-- 📈 Passionate about user experience and responsive design  
-
----
-
-## 🔨 Projects I’m Proud Of  
-- 🛠️ [UIU Student Problem Reporting System](#) – Role-based dashboards & secure authentication  
-- 🧮 [BAFSK Math Club System](#) – Academic record management, attendance tracking, and testimonials  
-- 🧠 Tokenization & embedding experiments with language models  
-- ⚙️ Role-based access control systems for web apps  
+- 📍 Dhaka, Bangladesh  
+- 🎯 Full-Stack Web Developer (MERN & PHP)  
+- 🧠 AI & Machine Learning: NLP, embeddings, semantic search  
+- 🔐 RHEL/Linux Administration (RH124 — RHEL 9.3)  
+- 🌱 Passionate about **data structures, algorithms, and security**  
 
 ---
 
-## 💬 Let’s Connect  
+## ⚒️ Tech Stack (CSE-Focused)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,php,laravel,mysql,python,c,cpp,java,git,github,linux,docker,aws,nginx" alt="Tech Stack" />
+</p>
 
-Hey there! 👋 If you're crafting something exciting, solving impactful problems, or simply vibing with code — I’m all ears.  
-Collaboration fuels creativity ⚡, and GitHub is our playground for innovation!
-🌟 *Consistency is key — every streak tells a story of persistence.*  
-✨ *Each pixel lit up represents growth in your coding journey.*
+**Core Skills:**  
+- Programming: **C, C++, Java, Python, PHP, JavaScript, TypeScript**  
+- Web: **React, Node.js, Express, Laravel, MySQL, PostgreSQL, MongoDB**  
+- Systems & DevOps: **Linux, RHEL, Docker, Nginx, AWS**  
+- AI & ML: **NLP, Hugging Face, embeddings, semantic search**  
+- Tools: **Git, GitHub, Supabase, CI/CD**  
 
+---
 
+## 🚀 Featured Projects (Professional / Serious CSE)
 
+### 1) UIU Student Problem Reporting System
+- Role-based dashboards, secure authentication, reporting automation, notifications.  
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohhwHfwrVQmzk9q5S/giphy.gif" width="600" style="border-radius: 15px;"/>
+</p>
+**Tech:** React, Node.js, Express, MySQL, JWT, Supabase  
+[🔗 GitHub](https://github.com/abdurrafi/uiu-problem-reporting) | [🔗 Live Demo](#)
 
-## ⚒️ Currently Working On  
-- 🧠 UIU Student Problem Reporting System  
-- 📊 BAFSK Math Club Management System  
-- 🧪 Exploring NLP: Tokenization & Embeddings  
+---
 
-## 📘 Currently Learning  
-- 🔥 Node.js & React.js  
-- 🛡️ Backend Security and Role Management  
+### 2) BAFSK Math Club Management System
+- Academic records, attendance, testimonials, admin analytics.  
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="600" style="border-radius: 15px;"/>
+</p>
+**Tech:** PHP, MySQL, Bootstrap, Chart.js  
+[🔗 GitHub](https://github.com/abdurrafi/bafsk-math-club) | [🔗 Live Demo](#)
 
-### 🚀 Tech Stack
+---
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-....and more
+### 3) NLP Experiments — Tokenization & Embeddings
+- Tokenization, embeddings, semantic search, and FAQ systems.  
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="600" style="border-radius: 15px;"/>
+</p>
+**Tech:** Python, Hugging Face, Faiss, Flask  
+[🔗 GitHub](https://github.com/abdurrafi/nlp-experiments)
 
-<details>
-  <summary>📚 My Certifications & Awards</summary>
-  - Blockchain Olympiad Bangladesh Finalist 🏅  
-  - President,BAF Shaheen College Kurmitola Math Club 🧠  
-</details>
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdurrafi)](https://github.com/ryo-ma/github-profile-trophy)
+## 🧩 Fun & Professional Widgets
 
+### 💻 GitHub Stats
+<p align="center">
+  <a href="https://github.com/abdurrafi">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdurrafi&show_icons=true&theme=tokyonight" />
+  </a>
+</p>
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrafi&theme=tokyonight" />
+</p>
+
+### 🌐 Visitor Counter
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=abdurrafi.readme" alt="visitor-badge"/>
+</p>
+
+### 📊 Activity Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=abdurrafi&theme=react-dark" />
+</p>
+
+### 💬 Random Programming Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+### ⏰ Current Time (Dhaka)
+<p align="center">
+  <img src="https://worldtimeapi.org/api/timezone/Asia/Dhaka.png" alt="time"/>
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdurrafi&theme=onedark&row=2&column=4" />
+</p>
+
+- Blockchain Olympiad Bangladesh — Finalist  
+- President — BAF Shaheen College Kurmitola Math Club  
+- Red Hat System Administration I (RH124 — RHEL 9.3)  
+
+---
+
+## 💼 Open For
+- Internships & Mentorship  
+- Freelance Projects  
+- Open Source Contributions  
+- Collaboration on EdTech & CSE tools  
+
+---
+
+## 📫 Contact Me
+<p align="center">
+  <a href="https://github.com/Abdur-Rahman-Rafi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rafi1438/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rahmanrafi517@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+> “Every commit is a step closer to mastery — build consistently, ship thoughtfully.” 🚀
